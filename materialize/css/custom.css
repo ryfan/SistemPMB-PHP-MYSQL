@@ -1,0 +1,81 @@
+
+ .input-field label {
+  color: #1a237e !important;
+}
+
+ .input-field input[type=text]:focus + label {
+  color: #1a237e !important;
+}
+
+ .input-field input[type=text]:focus {
+  border-bottom: 1px solid #1a237e !important;
+  box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+.input-field input[type=number]:focus + label {
+ color: #1a237e !important;
+}
+
+.input-field input[type=number]:focus {
+ border-bottom: 1px solid #1a237e !important;
+ box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+.input-field input[type=date]:focus + label {
+ color: #1a237e !important;
+}
+
+.input-field input[type=date]:focus {
+ border-bottom: 1px solid #1a237e !important;
+ box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+ .input-field input[type=text].valid {
+  border-bottom: 1px solid #1a237e !important;
+  box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+ .input-field input[type=text].invalid {
+  border-bottom: 1px solid #1a237e !important;
+  box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+ .input-field .prefix.active {
+  color: #1a237e !important;
+}
+
+ .input-field label {
+  color: #1a237e !important;
+}
+
+ .input-field input[type=password]:focus + label {
+  color: #1a237e !important;
+}
+
+ .input-field input[type=password]:focus {
+  border-bottom: 1px solid #1a237e !important;
+  box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+ .input-field input[type=password].valid {
+  border-bottom: 1px solid #1a237e !important;
+  box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+ .input-field input[type=password].invalid {
+  border-bottom: 1px solid #1a237e !important;
+  box-shadow: 0 1px 0 0 #1a237e !important;
+}
+
+ .input-field .prefix.active {
+  color: #1a237e !important;
+}
+
+.textarea {
+		color: #1a237e !important;
+	}
+
+   .materialize-textarea:focus:not([readonly]) {
+		border-bottom: 1px solid #1a237e !important;
+		box-shadow: 0 1px 0 0 #1a237e !important;
+	}
